@@ -1,2 +1,3 @@
 # snake
-snake clone inspired to nokia 5110
+![video.gif](video.gif)
+snake clone inspired by nokia 5110
