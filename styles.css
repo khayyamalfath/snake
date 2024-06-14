@@ -1,0 +1,16 @@
+#container {
+	max-width: 860px;
+}
+
+canvas {
+	border: 1px double black;
+	background-color: yellowgreen;
+	image-rendering: pixelated;
+	transform: scale(10);
+	transform-origin: 0 0;
+}
+
+#thank-you {
+	margin-top: 450px;
+	text-align: right;
+}
